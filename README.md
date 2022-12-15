@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently studying at Clarusway.
-- 🌱 I’m currently learning JavaScript and ReactJS.
+- 🌱 I’m currently learning Back-end Development.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kemal-durukan-mert1)
 </br>
 
